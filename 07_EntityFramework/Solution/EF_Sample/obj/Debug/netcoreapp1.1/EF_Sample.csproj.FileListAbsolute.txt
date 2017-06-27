@@ -1,0 +1,9 @@
+C:\Users\wwi\Documents\GitHub\AspNetCoreTraining\07_EntityFramework\Solution\EF_Sample\bin\Debug\netcoreapp1.1\EF_Sample.deps.json
+C:\Users\wwi\Documents\GitHub\AspNetCoreTraining\07_EntityFramework\Solution\EF_Sample\bin\Debug\netcoreapp1.1\EF_Sample.runtimeconfig.json
+C:\Users\wwi\Documents\GitHub\AspNetCoreTraining\07_EntityFramework\Solution\EF_Sample\bin\Debug\netcoreapp1.1\EF_Sample.runtimeconfig.dev.json
+C:\Users\wwi\Documents\GitHub\AspNetCoreTraining\07_EntityFramework\Solution\EF_Sample\bin\Debug\netcoreapp1.1\EF_Sample.dll
+C:\Users\wwi\Documents\GitHub\AspNetCoreTraining\07_EntityFramework\Solution\EF_Sample\bin\Debug\netcoreapp1.1\EF_Sample.pdb
+C:\Users\wwi\Documents\GitHub\AspNetCoreTraining\07_EntityFramework\Solution\EF_Sample\obj\Debug\netcoreapp1.1\EF_Sample.csprojResolveAssemblyReference.cache
+C:\Users\wwi\Documents\GitHub\AspNetCoreTraining\07_EntityFramework\Solution\EF_Sample\obj\Debug\netcoreapp1.1\EF_Sample.AssemblyInfo.cs
+C:\Users\wwi\Documents\GitHub\AspNetCoreTraining\07_EntityFramework\Solution\EF_Sample\obj\Debug\netcoreapp1.1\EF_Sample.dll
+C:\Users\wwi\Documents\GitHub\AspNetCoreTraining\07_EntityFramework\Solution\EF_Sample\obj\Debug\netcoreapp1.1\EF_Sample.pdb
